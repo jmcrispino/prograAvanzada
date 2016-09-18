@@ -1,0 +1,29 @@
+** La conexión se ha realizado con éxito.**
+Información de la Metadata
+	Driver name: SQLiteJDBC
+	Driver version: native
+	Product name: SQLite
+	Product version: 3.8.6
+
+Documento            Apellido y Nombre                                  F.Ingreso  Depto                    
+DNI - 27199432       Martinez, Daniel Hector                            2016-09-18 2-Sistemas               
+DNI - 21235489       Perez, Juan Manuel                                 2016-09-18 3-Logística              
+DNI - 10235450       Valenti, Soledad                                   2016-09-18 1-RRHH                   
+Agrego nuevo empleado...
+Documento            Apellido y Nombre                                  F.Ingreso  Depto                    
+DNI - 28976455       Saviola, Juan                                      2016-01-01 1-RRHH                   
+DNI - 27199432       Martinez, Daniel Hector                            2016-09-18 2-Sistemas               
+DNI - 21235489       Perez, Juan Manuel                                 2016-09-18 3-Logística              
+DNI - 10235450       Valenti, Soledad                                   2016-09-18 1-RRHH                   
+Actualizo departamento de empleado...
+Documento            Apellido y Nombre                                  F.Ingreso  Depto                    
+DNI - 28976455       Saviola, Juan                                      2016-01-01 1-RRHH                   
+DNI - 27199432       Martinez, Daniel Hector                            2016-09-18 3-Logística              
+DNI - 21235489       Perez, Juan Manuel                                 2016-09-18 3-Logística              
+DNI - 10235450       Valenti, Soledad                                   2016-09-18 1-RRHH                   
+Elimino empleado...
+Documento            Apellido y Nombre                                  F.Ingreso  Depto                    
+DNI - 27199432       Martinez, Daniel Hector                            2016-09-18 3-Logística              
+DNI - 21235489       Perez, Juan Manuel                                 2016-09-18 3-Logística              
+DNI - 10235450       Valenti, Soledad                                   2016-09-18 1-RRHH                   
+** La Desconexión de la BD exitosa. **
